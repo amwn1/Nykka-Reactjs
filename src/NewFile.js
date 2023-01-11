@@ -8,5 +8,6 @@ function NewFile(){
     </div>);
 }
 
+// this is an exampl
 
 export default NewFile;
